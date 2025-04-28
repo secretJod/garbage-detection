@@ -5,3 +5,6 @@ requests
 Pillow
 torch
 matplotlib
+fastapi
+uvicorn
+python-multipart
