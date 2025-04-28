@@ -1,0 +1,7 @@
+ultralytics==8.0.150
+opencv-python
+numpy
+requests
+Pillow
+torch
+matplotlib
